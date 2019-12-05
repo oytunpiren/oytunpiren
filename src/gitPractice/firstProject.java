@@ -13,6 +13,7 @@ public class firstProject {
 
         String name = "oytun";
         name = "OytunPiren";
+        name = "ytnprn";
     }
 
 
