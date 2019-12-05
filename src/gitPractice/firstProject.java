@@ -12,6 +12,7 @@ public class firstProject {
         System.out.println(a+b);
 
         String name = "oytun";
+        name = "OytunPiren";
     }
 
 
